@@ -1,6 +1,5 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:D9AB04,25:FA2,75:D93D04,100:BA0000&height=250&section=header&text=Tharindu%20Gimras&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20Web%20and%20Mobile%20App%20Developer!&descAlignY=55&descAlign=63.5&fontColor=ffffff)  
-<!-- ![](https://komarev.com/ghpvc/?username=Hedes-Productions&color=dc143c) -->
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -36,11 +35,8 @@
 
 [<img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=jgphilpott&theme=react-dark&area=true&hide_border=true&custom_title=Past%20Months%20Activity&bg_color=BA3607&title_color=fff&line=fff&point=fff&color=fff">](https://github.com/jgphilpott/github-readme-activity-graph)
 
-&nbsp;&nbsp;&nbsp;
+![Profile-Views](https://komarev.com/ghpvc/?username=Hedes-Productions&color=dc143c)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D9AB04,25:FA2,75:D93D04,100:BA0000&section=footer&height=80" width="100%"/>
 </p>
-
-<!-- [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&quote=You%20Create%20Opportunities,%20they%20just%20don't%20happen)](https://github.com/piyushsuthar/github-readme-quotes) -->
-
