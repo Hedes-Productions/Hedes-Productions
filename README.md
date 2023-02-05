@@ -33,7 +33,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=D9AB04&height=1)
 
-[<img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=jgphilpott&theme=react-dark&area=true&hide_border=true&custom_title=Past%20Months%20Activity&bg_color=BA3607&title_color=fff&line=fff&point=fff&color=fff">](https://github.com/jgphilpott/github-readme-activity-graph)
+[<img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=Hedes-Productions&theme=react-dark&area=true&hide_border=true&custom_title=My%20Contribution%20Graph&bg_color=BA3607&title_color=fff&line=fff&point=fff&color=fff">](https://github.com/jgphilpott/github-readme-activity-graph)
 
 ![Profile-Views](https://komarev.com/ghpvc/?username=Hedes-Productions&color=dc143c)
 
