@@ -7,23 +7,9 @@
 
 
 ### My experience
-<ul>
-<li>
-<a href="https://ixdlabs.com/" style='padding-right:10px'>
-    <img src="https://ixdlabs.com/_next/static/media/logo-colored.0b193c87.svg" height=30>
-</a>  <b>Frontend Developer-Internship</b> @<b>iXD Labs(Sri Lanka)</b> for <span style='color:#117799'>3 months.</span>
-</li>
-<li>
-<a href="https://crytec-labs.web.app/" style='padding-right:10px'>
-    <img src="https://crytec-labs.web.app/assets/Crytec_Labs_Logo.e5b23397.svg" height=30>
-</a>  <b>Full-stack Developer/ Project Manager/ Machine Learning Engineer</b> @<b>Crytec Labs(Sri Lanka)</b> for <span style='color:#117799'>11 months.</span>
-</li>
-<li>
-<a href="https://www.gotradie.com.au/" style='padding-right:10px'>
-    <img src="https://www.gotradie.com.au/images/logos/gt-logo.svg" height=15>
-</a>  <b>Full-stack web developer-Internship</b> @<b>GoTradie(Australia)</b> right <span style='color:#117799'>now.</span>
-</ul>
-</li>
+- [iXD Labs(Sri Lanka)](https://ixdlabs.com/) **Frontend Developer-Internship** `3 months`
+- [Crytec Labs(Sri Lanka)](https://crytec-labs.web.app/) **Full-stack Developer/ Project Manager/ Machine Learning Engineer** `11 months`
+- [GoTradie(Australia)](https://www.gotradie.com.au/) **Full-stack web developer-Internship** `right now`
 
 <p float="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hedes-Productions" /> 
