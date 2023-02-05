@@ -2,9 +2,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:D9AB04,25:FA2,75:D93D04,100:BA0000&height=250&section=header&text=Tharindu%20Gimras&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20Web%20and%20Mobile%20App%20Developer!&descAlignY=55&descAlign=63.5&fontColor=ffffff)  
 <!-- ![](https://komarev.com/ghpvc/?username=Hedes-Productions&color=dc143c) -->
 
-<p align="center">>
+<p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Electrical%20Eng.%20Undergraduate(UOM);Machine%20Learning%20Enthusiastic&center=true&width=480&height=45&color=D9AB04&vCenter=true=&pause=1000&size=20" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Electrical%20Eng.%20Undergraduate(UOM);Machine%20Learning%20Enthusiastic&center=true&width=480&height=45&color=D9AB04&vCenter=true=&pause=1000&size=20" />
+    </a>
 </p>
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=D9AB04&height=1)
@@ -21,7 +22,7 @@
 </a>
 </p>
 
-#### Check out my [**PORFOLIO**](https://portfoliox-df090.web.app)
+### Check out my [**PORFOLIO**](https://portfoliox-df090.web.app) | [![Portfolio](https://img.shields.io/badge/Visit-Portfolio-red)](https://portfoliox-df090.web.app) |
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=D9AB04&height=1)
 
