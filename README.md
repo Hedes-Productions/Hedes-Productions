@@ -1,5 +1,4 @@
 ## Its me. Tharindu Gimras(Hades) 👋
-<br/>
 
 ### Lets see who I am
 - Bsc. Electrical Engineering Undergraduate at University of Moratuwa
@@ -8,28 +7,23 @@
 
 
 ### My experience
-<br>
-<a href="https://ixdlabs.com/">
+<ul>
+<li>
+<a href="https://ixdlabs.com/" style='padding-right:10px'>
     <img src="https://ixdlabs.com/_next/static/media/logo-colored.0b193c87.svg" height=30>
-</a> 
-
-- **Frontend Developer-Internship** @**iXD Labs(Sri Lanka)** for `3 months`
-
-<br>
-<a href="https://crytec-labs.web.app/">
+</a>  <b>Frontend Developer-Internship</b> @<b>iXD Labs(Sri Lanka)</b> for <span style='color:#117799'>3 months.</span>
+</li>
+<li>
+<a href="https://crytec-labs.web.app/" style='padding-right:10px'>
     <img src="https://crytec-labs.web.app/assets/Crytec_Labs_Logo.e5b23397.svg" height=30>
-</a> 
-
-- **Full-stack Developer/ Project Manager/ Machine Learning Engineer**  @**Crytec Labs(Sri Lanka)** for `11 months`
-
-<br>
-<a href="https://www.gotradie.com.au/">
+</a>  <b>Full-stack Developer/ Project Manager/ Machine Learning Engineer</b> @<b>Crytec Labs(Sri Lanka)</b> for <span style='color:#117799'>11 months.</span>
+</li>
+<li>
+<a href="https://www.gotradie.com.au/" style='padding-right:10px'>
     <img src="https://www.gotradie.com.au/images/logos/gt-logo.svg" height=15>
-</a> 
-
-- **Full-stack web developer-Internship** @**GoTradie**  `Now`
-
-<br/>
+</a>  <b>Full-stack web developer-Internship</b> @<b>GoTradie(Australia)</b> right <span style='color:#117799'>now.</span>
+</ul>
+</li>
 
 <p float="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hedes-Productions" /> 
