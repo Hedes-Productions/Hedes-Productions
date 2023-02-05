@@ -1,34 +1,13 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:D9AB04,25:FA2,75:D93D04,100:BA0000&height=250&section=header&text=Tharindu%20Gimras&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20Web%20and%20Mobile%20App%20Developer!&descAlignY=55&descAlign=63.5&fontColor=ffffff)  
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Hedes-Productions&left_color=red&right_color=black)
+<!-- ![](https://komarev.com/ghpvc/?username=Hedes-Productions&color=dc143c) -->
 
-
-<p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">>
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Electrical%20Eng.%20Undergraduate(UOM);Machine%20Learning%20Enthusiastic&center=true&width=480&height=45&color=D9AB04&vCenter=true=&pause=1000&size=20" /></a>
 </p>
 
-
-
-<p float="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hedes-Productions" /> 
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hedes-Productions&exclude_repo=kvasir,machine-learning&langs_count=9&layout=compact&hide=CSS,PHP"/>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Hedes-Productions&row=2&column=3&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-</p>
-
-
- <a href="https://github.com/AlfinIndrawan/AlfinIndrawan"><img align="center" width="53%" display="flex" src="https://github-readme-stats.vercel.app/api/wakatime?username=AlfinIndrawan&langs_count=8&hide=Other,Others,CSS,C,C++,markdown,Blade%20Template&bg_color=15,904e95,F05138&title_color=fff&text_color=fff&layout=compact&hide_border=true&exclude_repo=swiftExplorationBooks-Answer&custom_title=Wakatime%20Total%20Stats%20Since%20May%202022" alt="Alfin's Wakatime stats" /></a><a href="https://github.com/AlfinIndrawan/AlfinIndrawan"><img align="center" width="47.0%" src="https://github-readme-stats.vercel.app/api?username=alfinindrawan&bg_color=345,F05138,904e95&title_color=fff&text_color=fff&include_all_commits=true&hide_border=true" /></a>
-
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&quote=You%20Create%20Opportunities,%20they%20just%20don't%20happen)](https://github.com/piyushsuthar/github-readme-quotes)
-
+![header](https://capsule-render.vercel.app/api?type=rect&color=D9AB04&height=1)
 
 <p left="center">
 <a href="https://www.linkedin.com/in/tharindu-gimras-19b438202/">
@@ -41,3 +20,26 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
 </a>
 </p>
+
+#### Check out my [**PORFOLIO**](https://portfoliox-df090.web.app)
+
+![header](https://capsule-render.vercel.app/api?type=rect&color=D9AB04&height=1)
+
+<p float="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hedes-Productions&bg_color=90,BA0000,D9AB04&title_color=fff&text_color=fff&layout=compact" /> 
+<img height="180em" src="https://streak-stats.demolab.com?user=Hedes-Productions&background=BA3607&ring=FFFFFF&fire=EBCC04&currStreakLabel=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF" /> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hedes-Productions&langs_count=8&layout=compact&bg_color=90,BA0000,D9AB04&title_color=fff&text_color=fff"/>
+</p>
+
+![header](https://capsule-render.vercel.app/api?type=rect&color=D9AB04&height=1)
+
+[<img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=jgphilpott&theme=react-dark&area=true&hide_border=true&custom_title=Past%20Months%20Activity&bg_color=BA3607&title_color=fff&line=fff&point=fff&color=fff">](https://github.com/jgphilpott/github-readme-activity-graph)
+
+&nbsp;&nbsp;&nbsp;
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D9AB04,25:FA2,75:D93D04,100:BA0000&section=footer&height=80" width="100%"/>
+</p>
+
+<!-- [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&quote=You%20Create%20Opportunities,%20they%20just%20don't%20happen)](https://github.com/piyushsuthar/github-readme-quotes) -->
+
