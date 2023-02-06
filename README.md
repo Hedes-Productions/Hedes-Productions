@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/Hedes-Productions?tab=overview&from=2023-02-01&to=2023-02-06">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Electrical%20Eng.%20Undergraduate(UOM);Machine%20Learning%20Enthusiastic&center=true&width=480&height=45&color=D9AB04&vCenter=true=&pause=1000&size=20"></img>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20Web%20And%20App%20Developer;Electrical%20Eng.%20Undergraduate(UOM);Machine%20Learning%20Enthusiastic&center=true&width=480&height=45&color=D9AB04&vCenter=true=&pause=1000&size=20"></img>
     </a>
 </p>
 
@@ -26,7 +26,7 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=D9AB04&height=1)
 
 <p float="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hedes-Productions&bg_color=90,BA0000,D9AB04&title_color=fff&text_color=fff&layout=compact" /> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hedes-Productions&bg_color=90,BA0000,D9AB04&title_color=fff&text_color=fff&layout=compact&count_private=true" /> 
 <img height="180em" src="https://streak-stats.demolab.com?user=Hedes-Productions&background=BA3607&ring=FFFFFF&fire=EBCC04&currStreakLabel=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF" /> 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hedes-Productions&langs_count=8&layout=compact&bg_color=90,BA0000,D9AB04&title_color=fff&text_color=fff"/>
 </p>
