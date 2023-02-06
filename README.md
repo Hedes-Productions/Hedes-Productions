@@ -35,8 +35,6 @@
 
 [<img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=Hedes-Productions&theme=react-dark&area=true&hide_border=true&custom_title=My%20Contribution%20Graph&bg_color=BA3607&title_color=fff&line=fff&point=fff&color=fff">](https://github.com/Hedes-Productions?tab=overview&from=2023-02-01&to=2023-02-06)
 
-![Profile-Views](https://komarev.com/ghpvc/?username=Hedes-Productions&color=dc143c)
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D9AB04,25:FA2,75:D93D04,100:BA0000&section=footer&height=80" width="100%"/>
 </p>
