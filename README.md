@@ -22,6 +22,7 @@
 </p>
 
 ### Check out my [**PORFOLIO**](https://portfoliox-df090.web.app) | [![Portfolio](https://img.shields.io/badge/Visit-Portfolio-red)](https://portfoliox-df090.web.app) |
+👆🏻👆🏻 **Surely check that out!!!! I know that you will be amazed🤩!!!** 👆🏻👆🏻👆🏻👆🏻
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=D9AB04&height=1)
 
