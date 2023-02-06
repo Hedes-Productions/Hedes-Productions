@@ -38,5 +38,5 @@
 ![Profile-Views](https://komarev.com/ghpvc/?username=Hedes-Productions&color=dc143c)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D9AB04,25:FA2,75:D93D04,100:BA0000&section=footer&height=80" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=100:D9AB04,75:FA2,25:D93D04,0:BA0000&section=footer&height=80" width="100%"/>
 </p>
