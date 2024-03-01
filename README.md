@@ -1,5 +1,4 @@
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:D9AB04,25:FA2,75:D93D04,100:BA0000&height=250&section=header&text=Tharindu%20Gimras&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20Web%20and%20Mobile%20App%20Developer!&descAlignY=55&descAlign=63.5&fontColor=ffffff)  
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:D9AB04,25:FA2,75:D93D04,100:BA0000&height=250&section=header&text=Tharindu%20Gimras&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20Web%20and%20Mobile%20App%20Developer!&descAlignY=55&descAlign=63.5&fontColor=ffffff)
 
 <p align="center">
   <a href="https://github.com/Hedes-Productions?tab=overview&from=2023-02-01&to=2023-02-06">
@@ -21,7 +20,8 @@
 </a>
 </p>
 
-### Check out my [**PORFOLIO**](https://portfoliox-df090.web.app) | [![Portfolio](https://img.shields.io/badge/Visit-Portfolio-red)](https://portfoliox-df090.web.app) |
+### Check out my [**PORFOLIO**](https://portifoliox-v2.vercel.app) | [![Portfolio](https://img.shields.io/badge/Visit-Portfolio-red)](https://portifoliox-v2.vercel.app) |
+
 👆🏻👆🏻 **Surely check that out!!!! I know that you will be amazed🤩!!!** 👆🏻👆🏻👆🏻👆🏻
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=D9AB04&height=1)
