@@ -29,7 +29,7 @@
 <p float="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hedes-Productions&bg_color=90,BA0000,D9AB04&title_color=fff&text_color=fff&layout=compact&count_private=true" /> 
 <img height="180em" src="https://streak-stats.demolab.com?user=Hedes-Productions&background=BA3607&ring=FFFFFF&fire=EBCC04&currStreakLabel=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF" /> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hedes-Productions&langs_count=8&layout=compact&bg_color=90,BA0000,D9AB04&title_color=fff&text_color=fff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hedes-Productions&langs_count=16&layout=compact&bg_color=90,BA0000,D9AB04&title_color=fff&text_color=fff&size_weight=0.5&count_weight=0.5"/>
 </p>
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=D9AB04&height=1)
