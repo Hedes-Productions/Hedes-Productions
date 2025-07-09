@@ -20,11 +20,11 @@
 </a>
 </p>
 
-### Check out my NEW RESEARCH [**PORFOLIO**](https://portifoliox-v2.vercel.app) | [![Portfolio](https://img.shields.io/badge/Visit-Portfolio-red)](tharindugimras.vercel.app) |
+### Check out my [**NEW RESEARCH PORFOLIO**](https://tharindugimras.vercel.app/) | [![Portfolio](https://img.shields.io/badge/Visit-Portfolio-red)](https://tharindugimras.vercel.app/) |
 
 👆🏻👆🏻 **Surely check that out if you want to know latest news about my self🤩!!!** 👆🏻👆🏻
 
-### Check out my OLD OUTDATED 3D [**PORFOLIO**](https://portifoliox-v2.vercel.app) | [![Portfolio](https://img.shields.io/badge/Visit-Portfolio-red)](https://portifoliox-v2.vercel.app) |
+### Check out my [**OLD OUTDATED 3D PORFOLIO**](https://portifoliox-v2.vercel.app) | [![Portfolio](https://img.shields.io/badge/Visit-Portfolio-red)](https://portifoliox-v2.vercel.app) |
 
 👆🏻👆🏻 **Surely check that out if you want to get 3D experience!!!!🤩!!!** 👆🏻👆🏻
 
