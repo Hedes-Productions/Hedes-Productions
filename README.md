@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Hedes-Productions?tab=overview&from=2023-02-01&to=2023-02-06">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20Web%20And%20App%20Developer;Electrical%20Eng.%20Undergraduate(UOM);Machine%20Learning%20Enthusiastic&center=true&width=480&height=45&color=D9AB04&vCenter=true=&pause=1000&size=20"></img>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Master%20Of%20Science(Research)%20Student;Research%20Assistant;Robotics%20Researcher;Electrical%20Eng.%20Graduate(UOM);&center=true&width=480&height=45&color=D9AB04&vCenter=true=&pause=1000&size=20"></img>
     </a>
 </p>
 
@@ -20,9 +20,13 @@
 </a>
 </p>
 
-### Check out my [**PORFOLIO**](https://portifoliox-v2.vercel.app) | [![Portfolio](https://img.shields.io/badge/Visit-Portfolio-red)](https://portifoliox-v2.vercel.app) |
+### Check out my NEW RESEARCH [**PORFOLIO**](https://portifoliox-v2.vercel.app) | [![Portfolio](https://img.shields.io/badge/Visit-Portfolio-red)](tharindugimras.vercel.app) |
 
-👆🏻👆🏻 **Surely check that out!!!! I know that you will be amazed🤩!!!** 👆🏻👆🏻👆🏻👆🏻
+👆🏻👆🏻 **Surely check that out if you want to know latest news about my self🤩!!!** 👆🏻👆🏻
+
+### Check out my OLD OUTDATED 3D [**PORFOLIO**](https://portifoliox-v2.vercel.app) | [![Portfolio](https://img.shields.io/badge/Visit-Portfolio-red)](https://portifoliox-v2.vercel.app) |
+
+👆🏻👆🏻 **Surely check that out if you want to get 3D experience!!!!🤩!!!** 👆🏻👆🏻
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=D9AB04&height=1)
 
