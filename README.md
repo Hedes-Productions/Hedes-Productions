@@ -33,7 +33,7 @@
 - 🏆 **Best Poster Award** — ICIPRoB 2026
 - 📄 **3 peer-reviewed publications** (IEEE + ICIPRoB)
 - 🌍 Moratuwa, Sri Lanka
-- 🌐 [tharindugimras.com](https://www.tharindugimras.com)
+- 🌐 [tharindugimras.com](https://www.tharindugimras.com/gh)
 
 <br clear="right"/>
 
