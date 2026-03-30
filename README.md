@@ -1,13 +1,4 @@
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--                        HEADER                             -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:060d1f,50:0d1f45,100:060d1f&height=240&section=header&text=A.G.%20Tharindu%20Gimras&fontSize=54&animation=fadeIn&fontAlignY=38&desc=Robotics%20Researcher%20%7C%20Seeking%20PhD%20Opportunities&descAlignY=56&descAlign=50&fontColor=e2f0ff&descSize=17&descColor=7ab3e0"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1a3a6e,50:2563a8,100:1a3a6e&height=240&section=header&text=A.G.%20Tharindu%20Gimras&fontSize=54&animation=fadeIn&fontAlignY=38&desc=Robotics%20Researcher%20%7C%20Seeking%20PhD%20Opportunities&descAlignY=56&descAlign=50&fontColor=ffffff&descSize=17&descColor=c7ddf5"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:060d1f,50:0d1f45,100:060d1f&height=240&section=header&text=A.G.%20Tharindu%20Gimras&fontSize=54&animation=fadeIn&fontAlignY=38&desc=Robotics%20Researcher%20%7C%20Seeking%20PhD%20Opportunities&descAlignY=56&descAlign=50&fontColor=e2f0ff&descSize=17&descColor=7ab3e0" alt="header" width="100%"/>
-</picture>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
 <!--                     TYPING BANNER                         -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 <div align="center">
@@ -139,14 +130,6 @@ AR-based indoor navigation system using depth estimation (1 cm accuracy, Kinect 
 <th>Links</th>
 <th>Status</th>
 </tr>
-<tr>
-<td align="center"><b>2027</b></td>
-<td><i>Conference paper on advanced wheelchair robotics — RL, Sim-to-Real, Residual Networks</i></td>
-<td><b>ICRA 2027</b></td>
-<td>—</td>
-<td align="center">🔄 In Progress</td>
-</tr>
-<tr>
 <td align="center"><b>2026</b></td>
 <td>Electric Wheelchair Prototype Design & Caster Wheel Dynamics Characterisation</td>
 <td><b>ICIPRoB 2026</b></td>
@@ -295,12 +278,3 @@ Built an immersive interface for remote robot operators using **Augmented Realit
 [![Old 3D Portfolio](https://img.shields.io/badge/🎮_3D_Portfolio-portifoliox--v2-1d4ed8?style=for-the-badge&labelColor=172554)](https://portifoliox-v2.vercel.app)
 
 </div>
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                       FOOTER                              -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:060d1f,50:0d1f45,100:060d1f&section=footer&height=120"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1a3a6e,50:2563a8,100:1a3a6e&section=footer&height=120"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:060d1f,50:0d1f45,100:060d1f&section=footer&height=120" alt="footer" width="100%"/>
-</picture>
