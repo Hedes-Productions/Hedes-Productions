@@ -32,10 +32,6 @@
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                       ABOUT ME                            -->
 <!-- ═══════════════════════════════════════════════════════════ -->
-
-[![GitHub Stats Dark](https://github-readme-stats-fast.vercel.app/api?username=Hedes-Productions&show_icons=true&bg_color=060d1f&title_color=60a5fa&text_color=bfdbfe&icon_color=93c5fd&border_color=1e3a5f&count_private=true&rank_icon=github&hide_border=false#gh-dark-mode-only)](https://github.com/Hedes-Productions#gh-dark-mode-only)
-[![GitHub Stats Light](https://github-readme-stats-fast.vercel.app/api?username=Hedes-Productions&show_icons=true&bg_color=eff6ff&title_color=1d4ed8&text_color=1e3a5f&icon_color=2563a8&border_color=bfdbfe&count_private=true&rank_icon=github&hide_border=false#gh-light-mode-only)](https://github.com/Hedes-Productions#gh-light-mode-only)
-
 ### 👨‍🔬 About Me
 
 Hi, I'm **Tharindu** — a Graduate Research Assistant at the **Intelligent Service Robotics Group**, University of Moratuwa, Sri Lanka.
