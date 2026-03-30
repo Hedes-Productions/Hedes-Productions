@@ -1,14 +1,24 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:050b18,40:0a1628,100:050b18&height=220&section=header&text=A.G.%20Tharindu%20Gimras&fontSize=58&animation=fadeIn&fontAlignY=36&desc=Robotics%20Researcher%20%7C%20University%20of%20Moratuwa%2C%20Sri%20Lanka&descAlignY=55&descAlign=50&fontColor=dde8f5&descSize=18)
+<!-- HEADER — dual theme -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1a,40:0d1530,100:0a0e1a&height=220&section=header&text=A.G.%20Tharindu%20Gimras&fontSize=58&animation=fadeIn&fontAlignY=36&desc=Robotics%20Researcher%20%7C%20University%20of%20Moratuwa%2C%20Sri%20Lanka&descAlignY=55&descAlign=50&fontColor=e2f0ff&descSize=18"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,40:2563a8,100:1e3a5f&height=220&section=header&text=A.G.%20Tharindu%20Gimras&fontSize=58&animation=fadeIn&fontAlignY=36&desc=Robotics%20Researcher%20%7C%20University%20of%20Moratuwa%2C%20Sri%20Lanka&descAlignY=55&descAlign=50&fontColor=ffffff&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1a,40:0d1530,100:0a0e1a&height=220&section=header&text=A.G.%20Tharindu%20Gimras&fontSize=58&animation=fadeIn&fontAlignY=36&desc=Robotics%20Researcher%20%7C%20University%20of%20Moratuwa%2C%20Sri%20Lanka&descAlignY=55&descAlign=50&fontColor=e2f0ff&descSize=18" alt="header"/>
+</picture>
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2500&pause=700&color=7C9CC0&center=true&vCenter=true&multiline=false&width=600&height=30&lines=🦽+Wheelchair+Robot+Control+%7C+RL+%26+Sim-to-Real;🤖+Path+Planning+for+Reconfigurable+Robots;👁️+Computer+Vision+%26+AR+Navigation+Systems;📄+3+Peer-Reviewed+Publications+%7C+1+Best+Poster+Award)](https://www.tharindugimras.com)
+<!-- TYPING SVG — dual theme -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2500&pause=700&color=60A5FA&center=true&vCenter=true&width=600&height=30&lines=🦽+Wheelchair+Robot+Control+%7C+RL+%26+Sim-to-Real;🤖+Path+Planning+for+Reconfigurable+Robots;👁️+Computer+Vision+%26+AR+Navigation+Systems;📄+3+Peer-Reviewed+Publications+%7C+1+Best+Poster+Award"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2500&pause=700&color=1D4ED8&center=true&vCenter=true&width=600&height=30&lines=🦽+Wheelchair+Robot+Control+%7C+RL+%26+Sim-to-Real;🤖+Path+Planning+for+Reconfigurable+Robots;👁️+Computer+Vision+%26+AR+Navigation+Systems;📄+3+Peer-Reviewed+Publications+%7C+1+Best+Poster+Award"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2500&pause=700&color=60A5FA&center=true&vCenter=true&width=600&height=30&lines=🦽+Wheelchair+Robot+Control+%7C+RL+%26+Sim-to-Real;🤖+Path+Planning+for+Reconfigurable+Robots;👁️+Computer+Vision+%26+AR+Navigation+Systems;📄+3+Peer-Reviewed+Publications+%7C+1+Best+Poster+Award" alt="Typing SVG"/>
+</picture>
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Research_Portfolio-tharindugimras.com-0a1628?style=for-the-badge&labelColor=0a1628&color=1a2744)](https://www.tharindugimras.com)
+[![Portfolio](https://img.shields.io/badge/🌐_Research_Portfolio-tharindugimras.com-1d4ed8?style=for-the-badge&labelColor=1e3a5f&color=2563a8)](https://www.tharindugimras.com)
 
 <br>
 
@@ -24,7 +34,10 @@
 
 ---
 
-<img align="right" width="340" src="https://github-readme-stats.vercel.app/api?username=Hedes-Productions&show_icons=true&bg_color=050b18&title_color=7c9cc0&text_color=dde8f5&icon_color=5b8db8&border_color=1a2744&count_private=true&rank_icon=github"/>
+<!-- STATS CARD — dual theme via #gh-dark/light-mode-only
+     (align="right" inside <picture> breaks on GitHub, so we use this approach) -->
+[![GitHub Stats Dark](https://github-readme-stats-fast.vercel.app/api?username=Hedes-Productions&show_icons=true&bg_color=0d1117&title_color=60a5fa&text_color=cfe2ff&icon_color=93c5fd&border_color=1e3a5f&count_private=true&rank_icon=github#gh-dark-mode-only)](https://github.com/Hedes-Productions#gh-dark-mode-only)
+[![GitHub Stats Light](https://github-readme-stats-fast.vercel.app/api?username=Hedes-Productions&show_icons=true&bg_color=eff6ff&title_color=1d4ed8&text_color=1e3a5f&icon_color=2563a8&border_color=bfdbfe&count_private=true&rank_icon=github#gh-light-mode-only)](https://github.com/Hedes-Productions#gh-light-mode-only)
 
 ### 👨‍🔬 About Me
 
@@ -34,8 +47,6 @@
 - 📄 **3 peer-reviewed publications** (IEEE + ICIPRoB)
 - 🌍 Moratuwa, Sri Lanka
 - 🌐 [tharindugimras.com](https://www.tharindugimras.com/gh)
-
-<br clear="right"/>
 
 ---
 
@@ -102,18 +113,18 @@
 
 ## 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-050b18?style=flat-square&logo=python&logoColor=3776AB)
-![ROS](https://img.shields.io/badge/ROS-050b18?style=flat-square&logo=ros&logoColor=22314E)
-![Gazebo](https://img.shields.io/badge/Gazebo-050b18?style=flat-square&logo=gazebo&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-050b18?style=flat-square&logo=opencv&logoColor=5C3EE8)
-![PyTorch](https://img.shields.io/badge/PyTorch-050b18?style=flat-square&logo=pytorch&logoColor=EE4C2C)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-050b18?style=flat-square&logo=tensorflow&logoColor=FF6F00)
-![MATLAB](https://img.shields.io/badge/MATLAB-050b18?style=flat-square&logo=mathworks&logoColor=0076A8)
-![C++](https://img.shields.io/badge/C++-050b18?style=flat-square&logo=c%2B%2B&logoColor=00599C)
-![TypeScript](https://img.shields.io/badge/TypeScript-050b18?style=flat-square&logo=typescript&logoColor=3178C6)
-![Next.js](https://img.shields.io/badge/Next.js-050b18?style=flat-square&logo=next.js&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-050b18?style=flat-square&logo=amazon-aws&logoColor=FF9900)
-![Unity](https://img.shields.io/badge/Unity-050b18?style=flat-square&logo=unity&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white)
+![Gazebo](https://img.shields.io/badge/Gazebo-f58113?style=flat-square&logo=gazebo&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-444444?style=flat-square&logo=unity&logoColor=white)
 
 ---
 
@@ -121,16 +132,23 @@
 
 <div align="center">
 
-<img width="420em" src="https://streak-stats.demolab.com?user=Hedes-Productions&background=050b18&ring=5b8db8&fire=dde8f5&currStreakLabel=5b8db8&dates=3d5a80&currStreakNum=dde8f5&sideNums=dde8f5&sideLabels=5b8db8&border=1a2744&border_radius=6"/>
-<img width="340em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hedes-Productions&langs_count=6&layout=compact&bg_color=050b18&title_color=7c9cc0&text_color=dde8f5&border_color=1a2744"/>
+<!-- STREAK — dual theme -->
+[![Streak Dark](https://streak-stats.demolab.com?user=Hedes-Productions&background=0d1117&ring=60a5fa&fire=93c5fd&currStreakLabel=60a5fa&dates=7fa8d4&currStreakNum=e2f0ff&sideNums=e2f0ff&sideLabels=60a5fa&border=1e3a5f&border_radius=6#gh-dark-mode-only)](https://github.com/Hedes-Productions#gh-dark-mode-only)
+[![Streak Light](https://streak-stats.demolab.com?user=Hedes-Productions&background=eff6ff&ring=2563a8&fire=1d4ed8&currStreakLabel=1d4ed8&dates=3b6ea5&currStreakNum=1e3a5f&sideNums=1e3a5f&sideLabels=2563a8&border=bfdbfe&border_radius=6#gh-light-mode-only)](https://github.com/Hedes-Productions#gh-light-mode-only)
 
-<br><br>
-
-<img width="720em" src="https://github-readme-activity-graph.vercel.app/graph?username=Hedes-Productions&bg_color=050b18&color=5b8db8&line=1a2744&point=7c9cc0&area=true&area_color=1a2744&hide_border=false&border_color=1a2744&radius=6"/>
+<!-- TOP LANGS — dual theme, reliable fork -->
+[![Top Langs Dark](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Hedes-Productions&langs_count=6&layout=compact&bg_color=0d1117&title_color=60a5fa&text_color=cfe2ff&border_color=1e3a5f#gh-dark-mode-only)](https://github.com/Hedes-Productions#gh-dark-mode-only)
+[![Top Langs Light](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Hedes-Productions&langs_count=6&layout=compact&bg_color=eff6ff&title_color=1d4ed8&text_color=1e3a5f&border_color=bfdbfe#gh-light-mode-only)](https://github.com/Hedes-Productions#gh-light-mode-only)
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Hedes-Productions&color=3d5a80&style=flat-square&label=Profile+Views)
+<!-- ACTIVITY GRAPH — dual theme -->
+[![Activity Dark](https://github-readme-activity-graph.vercel.app/graph?username=Hedes-Productions&bg_color=0d1117&color=60a5fa&line=1e3a5f&point=93c5fd&area=true&area_color=162a4a&border_color=1e3a5f&radius=6#gh-dark-mode-only)](https://github.com/Hedes-Productions#gh-dark-mode-only)
+[![Activity Light](https://github-readme-activity-graph.vercel.app/graph?username=Hedes-Productions&bg_color=eff6ff&color=1d4ed8&line=bfdbfe&point=2563a8&area=true&area_color=dbeafe&border_color=bfdbfe&radius=6#gh-light-mode-only)](https://github.com/Hedes-Productions#gh-light-mode-only)
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Hedes-Productions&color=2563a8&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -140,9 +158,14 @@
 
 ### 🌐 Portfolio Links
 
-[![Research Portfolio](https://img.shields.io/badge/🔬_Research_Portfolio-tharindugimras.com-0a1628?style=for-the-badge&color=1a2744)](https://www.tharindugimras.com)
-[![3D Portfolio](https://img.shields.io/badge/🎮_Old_3D_Portfolio-portifoliox--v2.vercel.app-050b18?style=for-the-badge&color=0e1f3a)](https://portifoliox-v2.vercel.app)
+[![Research Portfolio](https://img.shields.io/badge/🔬_Research_Portfolio-tharindugimras.com-2563a8?style=for-the-badge&labelColor=1e3a5f)](https://www.tharindugimras.com)
+[![3D Portfolio](https://img.shields.io/badge/🎮_Old_3D_Portfolio-portifoliox--v2.vercel.app-1d4ed8?style=for-the-badge&labelColor=172554)](https://portifoliox-v2.vercel.app)
 
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:050b18,40:0a1628,100:050b18&section=footer&height=100)
+<!-- FOOTER — dual theme -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1a,40:0d1530,100:0a0e1a&section=footer&height=100"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,40:2563a8,100:1e3a5f&section=footer&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1a,40:0d1530,100:0a0e1a&section=footer&height=100" alt="footer"/>
+</picture>
