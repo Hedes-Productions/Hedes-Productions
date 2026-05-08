@@ -33,7 +33,7 @@ Pursuing an **M.Sc. (Research)** on RL-based motion control for electric wheelch
 
 - **M.Sc. (Research)** · University of Moratuwa (2024 – present)
 - **B.Sc. (Hons.) Electrical Engineering** · GPA 3.56 · Dean's List
-- 3 peer-reviewed publications (1 IEEE, 2 ICIPRoB 2026)
+- 3 peer-reviewed publications (3 IEEE — MERCon 2024 · ICIPRoB 2026 × 2)
 - 🏆 Best Poster Award · ICIPRoB 2026
 - 📬 Actively seeking PhD positions in Robotics
 
@@ -55,9 +55,9 @@ Pursuing an **M.Sc. (Research)** on RL-based motion control for electric wheelch
 
 | Year | Title | Venue | Links | Status |
 |------|-------|-------|-------|--------|
-| 2026 | Electric Wheelchair Prototype Design & Caster Wheel Dynamics Characterisation | ICIPRoB 2026 | [🏆 Award](https://drive.google.com/file/d/1MNUnNI0qrooD-5Yxu8IaSPynHlgxne78/view?usp=drive_link) · [Cert](https://drive.google.com/file/d/165LQfVlMsEYrDxOr8EZ45ILE2LB02eoO/view?usp=drive_link) | **Best Poster** |
-| 2026 | Shape-Aware Path Planning for Smorphi Reconfigurable Modular Robot | ICIPRoB 2026 | [Cert](https://drive.google.com/file/d/1SRy9FTK8nTesgXSpPIMCtHenIXKq95Ds/view?usp=drive_link) | Accepted · Oral |
-| 2024 | Enabling Immersive Indoor Navigation and Control Through AR With Computer Vision | MERCon 2024 | [📑 IEEE](https://ieeexplore.ieee.org/document/10688929/) | IEEE Published |
+| 2026 | **CasteriX**: A Wheel Configurable Caster Wheel-Based Prototype Design for Electric Wheelchair Motion Dynamics Research | ICIPRoB 2026 | [🏆 Award](https://drive.google.com/file/d/1MNUnNI0qrooD-5Yxu8IaSPynHlgxne78/view?usp=drive_link) · [Cert](https://drive.google.com/file/d/165LQfVlMsEYrDxOr8EZ45ILE2LB02eoO/view?usp=drive_link) · [📑 IEEE](https://ieeexplore.ieee.org/document/11497999/) | **Best Poster** · IEEE Published |
+| 2026 | Adaptive Navigation of a Transformer Robot in Warehouse Environments | ICIPRoB 2026 | [Cert](https://drive.google.com/file/d/1SRy9FTK8nTesgXSpPIMCtHenIXKq95Ds/view?usp=drive_link) · [📑 IEEE](https://ieeexplore.ieee.org/document/11497803/) | Oral · IEEE Published |
+| 2024 | Enabling Immersive Indoor Navigation and Control Through Augmented Reality With Computer Vision | MERCon 2024 | [📑 IEEE](https://ieeexplore.ieee.org/document/10688929/) | IEEE Published |
 
 ---
 
@@ -65,8 +65,10 @@ Pursuing an **M.Sc. (Research)** on RL-based motion control for electric wheelch
 
 | Date | |
 |------|-|
+| May 2026 | 📑 Both ICIPRoB 2026 papers published on [IEEE Xplore](https://ieeexplore.ieee.org/) |
+| Mar 2026 | 🌐 Launched personal research website [tharindugimras.com](https://www.tharindugimras.com/) |
 | Mar 2026 | 🏆 Best Poster Award at [ICIPRoB 2026](https://www.iciprob.com/2026/) |
-| Mar 2026 | Presented 2 papers at ICIPRoB 2026 (1 poster, 1 oral) |
+| Mar 2026 | Presented 2 papers at ICIPRoB 2026 (1 poster · 1 oral) |
 | Mar 2026 | Started as Graduate Research Assistant at University of Moratuwa |
 | Aug 2025 | Editorial Team Member at [MERCon 2025](https://mercon.uom.lk/) |
 
@@ -83,9 +85,10 @@ Pursuing an **M.Sc. (Research)** on RL-based motion control for electric wheelch
 | Role | Event | Year |
 |------|-------|------|
 | Reviewer | [ICARC 2025](https://icarc.lk/assets/resources/ICARC2025_Program_Book.pdf) | 2025 |
-| Editorial Team | [MERCon 2025](https://mercon.uom.lk/) | 2025 |
+| Editorial Team | [MERCon 2025](https://mercon.uom.lk/) · [Appreciation Letter](https://drive.google.com/file/d/1Iku0XlrVjOWnXiEQw1WyLcRD7dLKSo4f/view?usp=sharing) | 2025 |
 | Teaching Assistant | Introduction to Gazebo · University of Moratuwa | 2023 |
 | Teaching Assistant | Research Paper Writing with Overleaf · University of Moratuwa | 2023 |
+| Teaching Assistant | React.js and CSS · MIHA Institute | 2023 |
 
 ---
 
