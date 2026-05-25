@@ -9,7 +9,7 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Research%20Portfolio-tharindugimras.com-2563a8?style=for-the-badge&labelColor=1a3a6e)](https://www.tharindugimras.com)
-[![CV](https://img.shields.io/badge/Download%20CV-Google%20Drive-16a34a?style=for-the-badge&labelColor=14532d)](https://drive.google.com/file/d/1c4J0YuP5st_uKGyRfIt3Jvk9joCyiEA_/view?usp=sharing)
+[![CV](https://img.shields.io/badge/Download%20CV-Google%20Drive-16a34a?style=for-the-badge&labelColor=14532d)](https://drive.google.com/file/d/1K_GixYy_3Ga8guSjwzhW5X3NsqjJHmQg/view)
 
 <br/>
 
